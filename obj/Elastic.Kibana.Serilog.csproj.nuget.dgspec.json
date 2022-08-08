@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj": {}
+    "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj": {
+    "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj",
+        "projectUniqueName": "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog.csproj",
         "projectName": "Elastic.Kibana.Serilog",
-        "projectPath": "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj",
+        "projectPath": "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog.csproj",
         "packagesPath": "C:\\Users\\Mattijs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\Elastic.Kibana.Serilog\\obj\\",
+        "outputPath": "C:\\Users\\Mattijs\\Documents\\KibanaElasticSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -23,7 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
           "https://pkgs.dev.azure.com/masttor/_packaging/DTO/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -44,8 +44,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
