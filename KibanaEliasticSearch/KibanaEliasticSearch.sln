@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KibanaEliasticSearch", "KibanaEliasticSearch\KibanaEliasticSearch.csproj", "{4506D072-7E20-456D-BEA9-B19975F227AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4506D072-7E20-456D-BEA9-B19975F227AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4506D072-7E20-456D-BEA9-B19975F227AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4506D072-7E20-456D-BEA9-B19975F227AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4506D072-7E20-456D-BEA9-B19975F227AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E33B40D-85D0-4770-84C6-154C7BD02BD0}
+	EndGlobalSection
+EndGlobal
